@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![A3azel GitHub stats](https://github-readme-stats.vercel.app/api?username=A3azel&show_icons=true&theme=gruvbox) 
+![A3azel GitHub stats](https://github-readme-stats.vercel.app/api?username=A3azel&show_icons=true&theme=tokyonight) 
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
