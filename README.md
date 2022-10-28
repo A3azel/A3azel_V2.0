@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ihor java back-end developer
+### Hi there 👋 
 
 <!--
 **A3azel/A3azel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
